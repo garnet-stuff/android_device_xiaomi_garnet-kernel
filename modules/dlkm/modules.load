@@ -107,8 +107,6 @@ cnss_plat_ipc_qmi_svc.ko
 cnss_nl.ko
 cnss_prealloc.ko
 mi_cnss_statistic.ko
-asix.ko
-ax88179_178a.ko
 msm_sharedmem.ko
 phy-qcom-emu.ko
 phy-msm-ssusb-qmp.ko
@@ -277,7 +275,6 @@ wcd938x_dlkm.ko
 wcd938x_slave_dlkm.ko
 cs35l43_dlkm.ko
 aw882xx_dlkm.ko
-fs19xx_dlkm.ko
 wcd937x_dlkm.ko
 wcd937x_slave_dlkm.ko
 hdmi_dlkm.ko
